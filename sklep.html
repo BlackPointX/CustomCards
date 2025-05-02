@@ -1,0 +1,89 @@
+<!-- sklep.html -->
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sklep – Custom Cards</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#394D5A',
+            secondary: '#56A0EA',
+            accent: '#CCCC80',
+            background: '#1F2933',
+            card: '#2D3741'
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            heading: ['Poppins', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@600;800&display=swap" rel="stylesheet">
+</head>
+<body class="bg-background text-white font-sans">
+
+  <!-- HEADER -->
+  <header class="bg-primary text-white">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex flex-wrap items-center justify-between">
+      <h1 class="text-xl font-heading font-bold w-full sm:w-auto mb-2 sm:mb-0 text-center sm:text-left">Custom Cards</h1>
+      <nav class="flex flex-wrap justify-center sm:justify-end gap-2 text-sm w-full sm:w-auto">
+        <a href="index.html" class="hover:text-accent">Strona główna</a>
+        <a href="sklep.html" class="text-accent font-bold underline underline-offset-4">Sklep</a>
+        <a href="onas.html" class="hover:text-accent">O nas</a>
+        <a href="kontakt.html" class="hover:text-accent">Kontakt</a>
+        <a href="koszyk.html" class="bg-secondary text-white px-3 py-1 rounded hover:bg-blue-500">🛒 Koszyk</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO SKLEPU -->
+  <section class="bg-secondary py-10 text-center px-4">
+    <h2 class="text-3xl sm:text-4xl font-heading font-bold mb-2">Sklep</h2>
+    <p class="text-white">Wybierz swój styl i stwórz własną kartę Pokémon!</p>
+  </section>
+
+  <!-- PRODUKTY -->
+  <section class="max-w-6xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+      <!-- Produkt 1 -->
+      <div class="bg-card p-4 rounded-lg shadow">
+        <img src="https://via.placeholder.com/400x500" alt="Karta 1" class="rounded mb-4 w-full" />
+        <h3 class="font-bold text-lg text-white mb-1">Full-Art Trener</h3>
+        <p class="text-gray-400 text-sm mb-4">Personalizowana karta trenera w stylu Scarlet & Violet.</p>
+        <button class="bg-primary text-white px-4 py-2 rounded hover:bg-gray-700 w-full">Dodaj do koszyka</button>
+      </div>
+
+      <!-- Produkt 2 -->
+      <div class="bg-card p-4 rounded-lg shadow">
+        <img src="https://via.placeholder.com/400x500" alt="Karta 2" class="rounded mb-4 w-full" />
+        <h3 class="font-bold text-lg text-white mb-1">Karta Pokémon V</h3>
+        <p class="text-gray-400 text-sm mb-4">Stwórz własnego Pokémona z umiejętnościami i typem!</p>
+        <button class="bg-primary text-white px-4 py-2 rounded hover:bg-gray-700 w-full">Dodaj do koszyka</button>
+      </div>
+
+      <!-- Produkt 3 -->
+      <div class="bg-card p-4 rounded-lg shadow">
+        <img src="https://via.placeholder.com/400x500" alt="Karta 3" class="rounded mb-4 w-full" />
+        <h3 class="font-bold text-lg text-white mb-1">Holo z efektem specjalnym</h3>
+        <p class="text-gray-400 text-sm mb-4">Efekt holograficzny i unikalna ramka kolekcjonerska.</p>
+        <button class="bg-primary text-white px-4 py-2 rounded hover:bg-gray-700 w-full">Dodaj do koszyka</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- STOPKA -->
+  <footer class="bg-primary text-white mt-12">
+    <div class="max-w-6xl mx-auto px-4 py-8 text-sm text-center">
+      &copy; 2025 Custom Cards. Wszystkie prawa zastrzeżone. | kontakt@customcards.pl
+    </div>
+  </footer>
+
+</body>
+</html>
