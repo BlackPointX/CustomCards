@@ -23,8 +23,8 @@
     "number": "160",
     "rarity": "Rare Secret",
     "images": {
-      "small": "img/base/Leia.png",
-      "large": "img/base/Leia.png"
+      "small": "/img/base/Leia.png",
+      "large": "/img/base/Leia.png"
     }
   },
   {
