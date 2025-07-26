@@ -41,7 +41,7 @@
     "images": {
       "small": "/img/base/Oleslaw.jpg",
       "large": "/img/base/Oleslaw.jpg",
-      "foil": "/CustomCards/img/masks/oleslaw_mask.jpg",
+      "foil": "/CustomCards/img/foils/oleslaw_foil.jpg",
       "mask": "/CustomCards/img/masks/oleslaw_mask.jpg"
     }
   },
