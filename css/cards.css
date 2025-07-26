@@ -1,8 +1,8 @@
 
 .card {
 
-  --grain: url("/CustomCards/img/grain.webp");
-  --glitter: url("/CustomCards/img/glitter.png");
+  --grain: url("../../img/grain.webp");
+  --glitter: url("../../img/glitter.png");
   --glittersize: 25%;
 
   --space: 5%;
