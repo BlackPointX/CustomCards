@@ -497,8 +497,8 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH181.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH181_hires.png",
-      "foil": "/img/foils/swshp/foils/181_foil_etched_sunpillar.jpg",
-      "mask": "/img/foils/swshp/masks/181_foil_etched_sunpillar.png"
+      "foil": "/CustomCards/img/foils/swshp/foils/181_foil_etched_sunpillar.jpg",
+      "mask": "/CustomCards/img/foils/swshp/masks/181_foil_etched_sunpillar.png"
     }
   },
   {
