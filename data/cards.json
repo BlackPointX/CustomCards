@@ -37,7 +37,9 @@
     "rarity": "Rare Secret",
     "images": {
       "small": "/img/base/Oleslaw.jpg",
-      "large": "/img/base/Oleslaw.jpg"
+      "large": "/img/base/Oleslaw.jpg",
+      "foil": "/img/masks/Oleslaw_mask.jpg",
+      "mask": "/img/foils/Oleslaw_mask.jpg"
     }
   },
   {
