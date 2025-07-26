@@ -34,9 +34,9 @@
     "set": "swsh12pt5",
     "name": "Oleslaw",
     "supertype": "Pokémon",
-    "subtypes": ["Basic"],
-    "types": ["Lightning"],
-    "number": "160",
+    "subtypes": ["Basic", "V", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH179",
     "rarity": "Rare Ultra",
     "images": {
       "small": "/img/base/Oleslaw.jpg",
