@@ -26,6 +26,19 @@
       "small": "/img/base/Leia.png",
       "large": "/img/base/Leia.png"
     }
+  },{
+    "id": "Oleslaw",
+    "set": "swsh12pt5",
+    "name": "Oleslaw",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "number": "160",
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "/img/base/Oleslaw.png",
+      "large": "/img/base/Oleslaw.png"
+    }
   },
   {
     "id": "sm10-33",
