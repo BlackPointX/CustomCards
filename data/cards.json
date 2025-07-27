@@ -17,16 +17,14 @@
     "id": "Leia",
     "set": "swsh12pt5",
     "name": "Leia",
-    "supertype": "Pokémon",
-    "subtypes": ["Basic", "V", "Single Strike"],
-    "types": ["Fire"],
-    "number": "SWSH179",
-    "rarity": "Rare Ultra",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "number": "160",
+    "rarity": "Rare Secret",
     "images": {
-      "small": "https://images.pokemontcg.io/swshp/SWSH179.png",
-      "large": "https://images.pokemontcg.io/swshp/SWSH179_hires.png",
-      "foil": "/img/foils/swshp/foils/179_foil_etched_sunpillar.jpg",
-      "mask": "/img/foils/Oleslaw_mask.jpg"
+      "small": "/img/base/Leia.png",
+      "large": "/img/base/Leia.png"
     }
   },
   {
