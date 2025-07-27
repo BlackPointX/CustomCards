@@ -31,7 +31,7 @@
   },
   {
     "id": "Oleslaw",
-    "set": "swsh12pt5",
+    "set": "swshp",
     "name": "Oleslaw",
     "supertype": "Pokémon",
     "subtypes": ["Basic", "V", "Single Strike"],
