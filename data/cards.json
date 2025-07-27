@@ -44,6 +44,20 @@
     }
   },
   {
+    "id": "Jay",
+    "set": "swshp",
+    "name": "Jay",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH180",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/base/Jay.jpg",
+      "large": "/img/base/Jay.jpg"
+    }
+  },
+  {
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
