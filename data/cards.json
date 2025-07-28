@@ -58,6 +58,34 @@
     }
   },
   {
+    "id": "Jay2",
+    "set": "swshp",
+    "name": "Jay2",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH180",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/base/Jay2.jpg",
+      "large": "/img/base/Jay2.jpg"
+    }
+  },
+  {
+    "id": "Jay3",
+    "set": "swshp",
+    "name": "Jay3",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Fire"],
+    "number": "SWSH180",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "/img/base/Jay3.jpg",
+      "large": "/img/base/Jay3.jpg"
+    }
+  },
+  {
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
