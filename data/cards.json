@@ -76,13 +76,15 @@
     "set": "swshp",
     "name": "Jay3",
     "supertype": "Pokémon",
-    "subtypes": ["VMAX", "Single Strike"],
-    "types": ["Fire"],
-    "number": "SWSH180",
-    "rarity": "Rare Rainbow",
+    "subtypes": ["Basic", "V"],
+    "types": ["Metal"],
+    "number": "177",
+    "rarity": "Rare Ultra",
     "images": {
       "small": "/img/base/Jay3.jpg",
-      "large": "/img/base/Jay3.jpg"
+      "large": "/img/base/Jay3.jpg",
+      "foil": "/img/foils/swsh10/foils/177_foil_etched_sunpillar.jpg",
+      "mask": "/img/masks/Jay3_mask.png"
     }
   },
   {
