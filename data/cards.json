@@ -83,8 +83,8 @@
     "images": {
       "small": "/img/base/Jay3.jpg",
       "large": "/img/base/Jay3.jpg",
-      "foil": "/img/foils/Jay3_foil.jpg",
-      "mask": "/img/masks/Jay3_mask.png"
+      "foil": "/CustomCards/img/foils/Jay3_foil.jpg",
+      "mask": "/CustomCards/img/masks/Jay3_mask.png"
     }
   },
   {
