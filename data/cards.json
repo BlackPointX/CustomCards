@@ -88,6 +88,22 @@
     }
   },
   {
+    "id": "Gameboy",
+    "set": "swshp",
+    "name": "Gameboy",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/Gameboy.jpg",
+      "large": "/img/base/Gameboy.jpg",
+      "foil": "/CustomCards/img/foils/gameboy_foil.jpg",
+      "mask": "/CustomCards/img/masks/gameboy_mask.png"
+    }
+  },
+  {
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
