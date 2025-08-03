@@ -104,6 +104,22 @@
     }
   },
   {
+    "id": "Witcher",
+    "set": "swshp",
+    "name": "Witcher",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/witcher.jpg",
+      "large": "/img/base/witcher.jpg",
+      "foil": "/CustomCards/img/foils/witcher_foil.jpg",
+      "mask": "/CustomCards/img/masks/witcher_mask.png"
+    }
+  },
+  {
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
