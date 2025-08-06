@@ -102,6 +102,21 @@
       "foil": "/CustomCards/img/foils/gameboy_foil.jpg",
       "mask": "/CustomCards/img/masks/gameboy_mask.png"
     }
+  }, {
+    "id": "gbc",
+    "set": "swshp",
+    "name": "gbc",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/gbc.jpg",
+      "large": "/img/base/gbc.jpg",
+      "foil": "/CustomCards/img/foils/gbc_foil.jpg",
+      "mask": "/CustomCards/img/masks/gbc_mask.png"
+    }
   },
   {
     "id": "Witcher",
