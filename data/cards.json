@@ -118,6 +118,22 @@
       "mask": "/CustomCards/img/masks/gbc_mask.png"
     }
   },
+   {
+    "id": "czarek",
+    "set": "swshp",
+    "name": "czarek",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/czarek.jpg",
+      "large": "/img/base/czarek.jpg",
+      "foil": "/CustomCards/img/foils/czarek_foil.jpg",
+      "mask": "/CustomCards/img/masks/czarek_mask.png"
+    }
+  },
   {
     "id": "Witcher",
     "set": "swshp",
