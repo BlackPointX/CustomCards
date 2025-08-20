@@ -151,6 +151,22 @@
     }
   },
   {
+    "id": "Ronnys Glurak",
+    "set": "swshp",
+    "name": "Ronnys Glurak",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/glurak.jpg",
+      "large": "/img/base/glurak.jpg",
+      "foil": "/CustomCards/img/foils/glurak_foil.jpg",
+      "mask": "/CustomCards/img/masks/glurak_mask.png"
+    }
+  },
+  {
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
