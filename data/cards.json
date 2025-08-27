@@ -150,6 +150,22 @@
       "mask": "/CustomCards/img/masks/witcher_mask.png"
     }
   },
+   {
+    "id": "snorlax",
+    "set": "swshp",
+    "name": "snorlax",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/snorlax.jpg",
+      "large": "/img/base/snorlax.jpg",
+      "foil": "/CustomCards/img/foils/snorlax_foil.jpg",
+      "mask": "/CustomCards/img/masks/snorlax_mask.png"
+    }
+  },
   {
     "id": "Ronnys_Glurak",
     "set": "swshp",
