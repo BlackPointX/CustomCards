@@ -167,6 +167,22 @@
     }
   },
   {
+    "id": "giratina",
+    "set": "swshp",
+    "name": "giratina",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/giratina.jpg",
+      "large": "/img/base/giratina.jpg",
+      "foil": "/CustomCards/img/foils/giratina_foil.jpg",
+      "mask": "/CustomCards/img/masks/giratina_mask.png"
+    }
+  },
+  {
     "id": "Ronnys_Glurak",
     "set": "swshp",
     "name": "Ronnys_Glurak",
