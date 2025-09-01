@@ -181,6 +181,21 @@
       "foil": "/CustomCards/img/foils/giratina_foil.jpg",
       "mask": "/CustomCards/img/masks/giratina_mask.png"
     }
+  }, {
+    "id": "giratina",
+    "set": "swshp",
+    "name": "giratina",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/Wandering_phoenix.jpg",
+      "large": "/img/base/Wandering_phoenix.jpg",
+      "foil": "/CustomCards/img/foils/Wandering_phoenix_foil.jpg",
+      "mask": "/CustomCards/img/masks/Wandering_phoenix_mask.png"
+    }
   },
   {
     "id": "Ronnys_Glurak",
