@@ -182,9 +182,9 @@
       "mask": "/CustomCards/img/masks/giratina_mask.png"
     }
   }, {
-    "id": "giratina",
+    "id": "Wandering_phoenix",
     "set": "swshp",
-    "name": "giratina",
+    "name": "Wandering_phoenix",
    "supertype": "Pokémon",
     "subtypes": ["Basic", "V", "Rapid Strike"],
     "types": ["Water"],
