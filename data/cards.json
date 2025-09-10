@@ -196,6 +196,21 @@
       "foil": "/CustomCards/img/foils/Wandering_phoenix_foil.jpg",
       "mask": "/CustomCards/img/masks/Wandering_phoenix_mask.png"
     }
+  },{
+    "id": "szpaku",
+    "set": "swshp",
+    "name": "szpaku",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/szpaku.jpg",
+      "large": "/img/base/szpaku.jpg",
+      "foil": "/CustomCards/img/foils/szpaku_foil.jpg",
+      "mask": "/CustomCards/img/masks/szpaku_mask.png"
+    }
   },
   {
     "id": "Ronnys_Glurak",
