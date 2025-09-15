@@ -211,6 +211,21 @@
       "foil": "/CustomCards/img/foils/szpaku_foil.jpg",
       "mask": "/CustomCards/img/masks/szpaku_mask.png"
     }
+  },{
+    "id": "B&N",
+    "set": "swshp",
+    "name": "B&N",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/B&N.jpg",
+      "large": "/img/base/B&N.jpg",
+      "foil": "/CustomCards/img/foils/B&N_foil.jpg",
+      "mask": "/CustomCards/img/masks/B&N_mask.png"
+    }
   },
   {
     "id": "Ronnys_Glurak",
