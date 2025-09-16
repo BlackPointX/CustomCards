@@ -227,6 +227,21 @@
       "mask": "/CustomCards/img/masks/B&N_mask.png"
     }
   },{
+    "id": "jazmlab_voltorb",
+    "set": "swshp",
+    "name": "jazmlab_voltorb",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/jazmlab_voltorb.jpg",
+      "large": "/img/base/jazmlab_voltorb.jpg",
+      "foil": "/CustomCards/img/foils/jazmlab_voltorb_foil.jpg",
+      "mask": "/CustomCards/img/masks/jazmlab_voltorb_mask.png"
+    }
+  },{
     "id": "Misia",
     "set": "swshp",
     "name": "Misia",
