@@ -226,6 +226,21 @@
       "foil": "/CustomCards/img/foils/B&N_foil.jpg",
       "mask": "/CustomCards/img/masks/B&N_mask.png"
     }
+  },{
+    "id": "Misia",
+    "set": "swshp",
+    "name": "Misia",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/Misia.jpg",
+      "large": "/img/base/Misia.jpg",
+      "foil": "/CustomCards/img/foils/Misia_foil.jpg",
+      "mask": "/CustomCards/img/masks/Misia_mask.png"
+    }
   },
   {
     "id": "Ronnys_Glurak",
