@@ -212,6 +212,21 @@
       "mask": "/CustomCards/img/masks/szpaku_mask.png"
     }
   },{
+    "id": "Patrick & Paige",
+    "set": "swshp",
+    "name": "Patrick & Paige",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/Patrick_Paige.jpg",
+      "large": "/img/base/Patrick_Paige.jpg",
+      "foil": "/CustomCards/img/foils/Patrick_Paige_foil.jpg",
+      "mask": "/CustomCards/img/masks/Patrick_Paige_mask.png"
+    }
+  },{
     "id": "Sosnowscy",
     "set": "swshp",
     "name": "Sosnowscy",
