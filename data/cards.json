@@ -242,6 +242,21 @@
       "mask": "/CustomCards/img/masks/Sosnowscy_mask.png"
     }
   },{
+    "id": "Hydreigon",
+    "set": "swshp",
+    "name": "Hydreigon",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/Hydreigon.jpg",
+      "large": "/img/base/Hydreigon.jpg",
+      "foil": "/CustomCards/img/foils/Hydreigon_foil.jpg",
+      "mask": "/CustomCards/img/masks/Hydreigon_mask.png"
+    }
+  },{
     "id": "B&N",
     "set": "swshp",
     "name": "B&N",
