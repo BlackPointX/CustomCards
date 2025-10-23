@@ -257,6 +257,21 @@
       "mask": "/CustomCards/img/masks/Hydreigon_mask.png"
     }
   },{
+    "id": "Daria",
+    "set": "swshp",
+    "name": "Daria",
+   "supertype": "Pokémon",
+    "subtypes": ["Basic", "V", "Rapid Strike"],
+    "types": ["Water"],
+    "number": "SWSH181",
+    "rarity": "Rare Holo V",
+    "images": {
+      "small": "/img/base/Daria.jpg",
+      "large": "/img/base/Daria.jpg",
+      "foil": "/CustomCards/img/foils/Daria_foil.jpg",
+      "mask": "/CustomCards/img/masks/Daria_mask.png"
+    }
+  },{
     "id": "B&N",
     "set": "swshp",
     "name": "B&N",
